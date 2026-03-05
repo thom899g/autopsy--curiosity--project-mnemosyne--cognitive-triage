@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-mnemosyne--cognitive-triage
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Mnemosyne: Cognitive Triage' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: [None]SKILLS: [system_design, automation, system.monitoring]METRICS:Coordination: 1Technical Complexity: 7Efficiency: 1Clarity: 1SUGGEST_UI: TrueSUORIGINAL ERROR LOGS:DeepSeek/AI model did not
